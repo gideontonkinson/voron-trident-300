@@ -94,7 +94,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "None",
-            "dist_hub": 780.0,
+            "dist_hub": 1221.26,
             "td1_data": {},
             "endstops": "load,tool_start,lane1_wt_prep,lane1_wt_load,lane1_wt_tool"
         }
