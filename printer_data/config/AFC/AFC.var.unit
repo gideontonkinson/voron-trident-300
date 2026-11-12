@@ -142,7 +142,7 @@
             }
         },
         "bypass": {
-            "enabled": false
+            "enabled": 1
         }
     }
 }
