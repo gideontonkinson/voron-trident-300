@@ -30,7 +30,7 @@
             "status": "None",
             "dist_hub": 45.0,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_bt_prep,lane1_bt_load,lane1_bt_tool"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_bt_prep,lane1_bt_load"
         },
         "lane2_bt": {
             "name": "lane2_bt",
@@ -54,15 +54,15 @@
             "spool_id": null,
             "color": "",
             "weight": 0,
-            "extruder_temp": null,
-            "bed_temp": null,
+            "extruder_temp": 0,
+            "bed_temp": 0,
             "runout_lane": null,
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Error",
+            "status": "None",
             "dist_hub": -5.88,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_bt_prep,lane2_bt_load,lane2_bt_tool"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_bt_prep,lane2_bt_load"
         }
     },
     "NightOwl_WT": {
@@ -96,7 +96,7 @@
             "status": "None",
             "dist_hub": 91.62,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_wt_prep,lane1_wt_load,lane1_wt_tool"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_wt_prep,lane1_wt_load"
         },
         "lane2_wt": {
             "name": "lane2_wt",
@@ -128,7 +128,7 @@
             "status": "Loaded",
             "dist_hub": 90.55,
             "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_wt_prep,lane2_wt_load,lane2_wt_tool"
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_wt_prep,lane2_wt_load"
         }
     },
     "system": {
